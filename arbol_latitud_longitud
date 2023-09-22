@@ -1,0 +1,452 @@
+// Árbol AVL de Latitud y Longitud
+digraph {
+	4.908 [label="Latitud: 4.908
+Longitud: -73.94"]
+	4.908 -> 11.005
+	11.005 [label="Latitud: 11.005
+Longitud: -74.815"]
+	11.005 -> 4.845
+	4.845 [label="Latitud: 4.845
+Longitud: -74.057"]
+	4.845 -> 3.472
+	3.472 [label="Latitud: 3.472
+Longitud: -76.522"]
+	3.472 -> 7.067
+	7.067 [label="Latitud: 7.067
+Longitud: -73.1"]
+	7.067 -> 3.261
+	3.261 [label="Latitud: 3.261
+Longitud: -76.545"]
+	3.261 -> 4.642
+	4.642 [label="Latitud: 4.642
+Longitud: -74.011"]
+	3.261 -> 4.536
+	4.536 [label="Latitud: 4.536
+Longitud: -75.689"]
+	4.536 -> 3.391
+	3.391 [label="Latitud: 3.391
+Longitud: -76.554"]
+	7.067 -> 3.402
+	3.402 [label="Latitud: 3.402
+Longitud: -76.507"]
+	3.402 -> 7.139
+	7.139 [label="Latitud: 7.139
+Longitud: -73.12"]
+	7.139 -> 3.389
+	3.389 [label="Latitud: 3.389
+Longitud: -76.52"]
+	3.402 -> 6.239
+	6.239 [label="Latitud: 6.239
+Longitud: -75.608"]
+	6.239 -> 7.104
+	7.104 [label="Latitud: 7.104
+Longitud: -73.129"]
+	3.472 -> 7.07
+	7.07 [label="Latitud: 7.07
+Longitud: -73.112"]
+	7.07 -> 3.365
+	3.365 [label="Latitud: 3.365
+Longitud: -76.514"]
+	3.365 -> 3.431
+	3.431 [label="Latitud: 3.431
+Longitud: -76.528"]
+	3.365 -> 4.624
+	4.624 [label="Latitud: 4.624
+Longitud: -74.137"]
+	7.07 -> 6.159
+	6.159 [label="Latitud: 6.159
+Longitud: -75.603"]
+	6.159 -> 3.358
+	3.358 [label="Latitud: 3.358
+Longitud: -76.518"]
+	6.159 -> 6.274
+	6.274 [label="Latitud: 6.274
+Longitud: -75.58"]
+	6.274 -> 3.269
+	3.269 [label="Latitud: 3.269
+Longitud: -76.534"]
+	4.845 -> 6.172
+	6.172 [label="Latitud: 6.172
+Longitud: -75.338"]
+	6.172 -> 10.992
+	10.992 [label="Latitud: 10.992
+Longitud: -74.817"]
+	10.992 -> 6.239
+	6.239 [label="Latitud: 6.239
+Longitud: -75.608"]
+	6.239 -> 10.992
+	10.992 [label="Latitud: 10.992
+Longitud: -74.817"]
+	10.992 -> 7.116
+	7.116 [label="Latitud: 7.116
+Longitud: -73.114"]
+	7.116 -> 6.243
+	6.243 [label="Latitud: 6.243
+Longitud: -75.604"]
+	7.116 -> 11.017
+	11.017 [label="Latitud: 11.017
+Longitud: -74.837"]
+	6.172 -> 10.992
+	10.992 [label="Latitud: 10.992
+Longitud: -74.804"]
+	10.992 -> 6.253
+	6.253 [label="Latitud: 6.253
+Longitud: -75.608"]
+	6.253 -> 4.734
+	4.734 [label="Latitud: 4.734
+Longitud: -74.034"]
+	4.734 -> 3.372
+	3.372 [label="Latitud: 3.372
+Longitud: -76.518"]
+	4.734 -> 3.396
+	3.396 [label="Latitud: 3.396
+Longitud: -76.529"]
+	6.253 -> 3.461
+	3.461 [label="Latitud: 3.461
+Longitud: -76.528"]
+	3.461 -> 4.663
+	4.663 [label="Latitud: 4.663
+Longitud: -74.049"]
+	3.461 -> 10.992
+	10.992 [label="Latitud: 10.992
+Longitud: -74.812"]
+	10.992 -> 6.258
+	6.258 [label="Latitud: 6.258
+Longitud: -75.614"]
+	6.258 -> 6.179
+	6.179 [label="Latitud: 6.179
+Longitud: -75.57"]
+	6.258 -> 6.211
+	6.211 [label="Latitud: 6.211
+Longitud: -75.599"]
+	6.211 -> 10.992
+	10.992 [label="Latitud: 10.992
+Longitud: -74.818"]
+	6.211 -> 3.468
+	3.468 [label="Latitud: 3.468
+Longitud: -76.521"]
+	11.005 -> 4.648
+	4.648 [label="Latitud: 4.648
+Longitud: -74.058"]
+	4.648 -> 11.007
+	11.007 [label="Latitud: 11.007
+Longitud: -74.824"]
+	11.007 -> 4.7
+	4.7 [label="Latitud: 4.7
+Longitud: -74.034"]
+	4.7 -> 10.986
+	10.986 [label="Latitud: 10.986
+Longitud: -74.812"]
+	10.986 -> 6.233
+	6.233 [label="Latitud: 6.233
+Longitud: -75.568"]
+	6.233 -> 6.15
+	6.15 [label="Latitud: 6.15
+Longitud: -75.595"]
+	10.986 -> 3.4
+	3.4 [label="Latitud: 3.4
+Longitud: -76.537"]
+	4.7 -> 4.681
+	4.681 [label="Latitud: 4.681
+Longitud: -74.061"]
+	4.681 -> 4.63
+	4.63 [label="Latitud: 4.63
+Longitud: -74.067"]
+	4.681 -> 6.185
+	6.185 [label="Latitud: 6.185
+Longitud: -75.582"]
+	6.185 -> 4.635
+	4.635 [label="Latitud: 4.635
+Longitud: -74.094"]
+	11.007 -> 6.42
+	6.42 [label="Latitud: 6.42
+Longitud: -75.418"]
+	6.42 -> 6.215
+	6.215 [label="Latitud: 6.215
+Longitud: -75.598"]
+	6.215 -> 4.746
+	4.746 [label="Latitud: 4.746
+Longitud: -74.067"]
+	6.42 -> 3.344
+	3.344 [label="Latitud: 3.344
+Longitud: -76.528"]
+	3.344 -> 4.714
+	4.714 [label="Latitud: 4.714
+Longitud: -74.088"]
+	3.344 -> 4.692
+	4.692 [label="Latitud: 4.692
+Longitud: -74.042"]
+	4.692 -> 4.679
+	4.679 [label="Latitud: 4.679
+Longitud: -74.04"]
+	4.648 -> 6.149
+	6.149 [label="Latitud: 6.149
+Longitud: -75.372"]
+	6.149 -> 4.583
+	4.583 [label="Latitud: 4.583
+Longitud: -74.107"]
+	4.583 -> 11.008
+	11.008 [label="Latitud: 11.008
+Longitud: -74.819"]
+	11.008 -> 3.429
+	3.429 [label="Latitud: 3.429
+Longitud: -76.555"]
+	11.008 -> 3.388
+	3.388 [label="Latitud: 3.388
+Longitud: -76.52"]
+	4.583 -> 4.635
+	4.635 [label="Latitud: 4.635
+Longitud: -74.062"]
+	4.635 -> 4.665
+	4.665 [label="Latitud: 4.665
+Longitud: -74.047"]
+	4.635 -> 6.191
+	6.191 [label="Latitud: 6.191
+Longitud: -75.576"]
+	6.149 -> 3.952
+	3.952 [label="Latitud: 3.952
+Longitud: -77.372"]
+	3.952 -> 4.671
+	4.671 [label="Latitud: 4.671
+Longitud: -74.046"]
+	4.671 -> 3.428
+	3.428 [label="Latitud: 3.428
+Longitud: -76.523"]
+	3.952 -> 3.333
+	3.333 [label="Latitud: 3.333
+Longitud: -76.538"]
+	3.333 -> 4.926
+	4.926 [label="Latitud: 4.926
+Longitud: -74.075"]
+	4.926 -> 4.889
+	4.889 [label="Latitud: 4.889
+Longitud: -74.008"]
+	4.926 -> 4.748
+	4.748 [label="Latitud: 4.748
+Longitud: -73.952"]
+	3.333 -> 3.284
+	3.284 [label="Latitud: 3.284
+Longitud: -76.521"]
+	3.284 -> 3.401
+	3.401 [label="Latitud: 3.401
+Longitud: -76.504"]
+	4.908 -> 11.013
+	11.013 [label="Latitud: 11.013
+Longitud: -74.836"]
+	11.013 -> 6.238
+	6.238 [label="Latitud: 6.238
+Longitud: -75.574"]
+	6.238 -> 3.493
+	3.493 [label="Latitud: 3.493
+Longitud: -76.503"]
+	3.493 -> 4.842
+	4.842 [label="Latitud: 4.842
+Longitud: -74.032"]
+	4.842 -> 10.992
+	10.992 [label="Latitud: 10.992
+Longitud: -74.796"]
+	10.992 -> 10.988
+	10.988 [label="Latitud: 10.988
+Longitud: -74.807"]
+	10.992 -> 4.54
+	4.54 [label="Latitud: 4.54
+Longitud: -75.69"]
+	4.54 -> 4.873
+	4.873 [label="Latitud: 4.873
+Longitud: -74.052"]
+	4.842 -> 3.461
+	3.461 [label="Latitud: 3.461
+Longitud: -76.529"]
+	3.461 -> 3.277
+	3.277 [label="Latitud: 3.277
+Longitud: -76.514"]
+	3.277 -> 4.914
+	4.914 [label="Latitud: 4.914
+Longitud: -74.029"]
+	3.277 -> 3.369
+	3.369 [label="Latitud: 3.369
+Longitud: -76.538"]
+	3.461 -> 11.018
+	11.018 [label="Latitud: 11.018
+Longitud: -74.809"]
+	11.018 -> 10.947
+	10.947 [label="Latitud: 10.947
+Longitud: -74.794"]
+	3.493 -> 3.877
+	3.877 [label="Latitud: 3.877
+Longitud: -77.001"]
+	3.877 -> 3.431
+	3.431 [label="Latitud: 3.431
+Longitud: -76.542"]
+	3.877 -> 3.368
+	3.368 [label="Latitud: 3.368
+Longitud: -76.531"]
+	3.368 -> 11.006
+	11.006 [label="Latitud: 11.006
+Longitud: -74.835"]
+	6.238 -> 11.231
+	11.231 [label="Latitud: 11.231
+Longitud: -74.204"]
+	11.231 -> 4.325
+	4.325 [label="Latitud: 4.325
+Longitud: -74.37"]
+	4.325 -> 3.411
+	3.411 [label="Latitud: 3.411
+Longitud: -76.53"]
+	3.411 -> 3.427
+	3.427 [label="Latitud: 3.427
+Longitud: -76.52"]
+	3.411 -> 4.534
+	4.534 [label="Latitud: 4.534
+Longitud: -75.689"]
+	4.325 -> 4.454
+	4.454 [label="Latitud: 4.454
+Longitud: -75.243"]
+	4.454 -> 3.482
+	3.482 [label="Latitud: 3.482
+Longitud: -76.494"]
+	4.454 -> 10.979
+	10.979 [label="Latitud: 10.979
+Longitud: -74.803"]
+	11.231 -> 6.314
+	6.314 [label="Latitud: 6.314
+Longitud: -75.571"]
+	6.314 -> 6.188
+	6.188 [label="Latitud: 6.188
+Longitud: -75.56"]
+	6.188 -> 4.696
+	4.696 [label="Latitud: 4.696
+Longitud: -74.231"]
+	6.188 -> 6.161
+	6.161 [label="Latitud: 6.161
+Longitud: -75.641"]
+	6.314 -> 4.708
+	4.708 [label="Latitud: 4.708
+Longitud: -74.073"]
+	4.708 -> 3.397
+	3.397 [label="Latitud: 3.397
+Longitud: -76.532"]
+	4.708 -> 3.469
+	3.469 [label="Latitud: 3.469
+Longitud: -76.512"]
+	11.013 -> 4.677
+	4.677 [label="Latitud: 4.677
+Longitud: -74.058"]
+	4.677 -> 4.69
+	4.69 [label="Latitud: 4.69
+Longitud: -74.06"]
+	4.69 -> 6.24
+	6.24 [label="Latitud: 6.24
+Longitud: -75.6"]
+	6.24 -> 3.462
+	3.462 [label="Latitud: 3.462
+Longitud: -76.509"]
+	3.462 -> 3.401
+	3.401 [label="Latitud: 3.401
+Longitud: -76.548"]
+	3.401 -> 6.34
+	6.34 [label="Latitud: 6.34
+Longitud: -75.533"]
+	3.401 -> 6.153
+	6.153 [label="Latitud: 6.153
+Longitud: -75.611"]
+	3.462 -> 3.492
+	3.492 [label="Latitud: 3.492
+Longitud: -76.518"]
+	6.24 -> 10.997
+	10.997 [label="Latitud: 10.997
+Longitud: -74.791"]
+	10.997 -> 11.01
+	11.01 [label="Latitud: 11.01
+Longitud: -74.826"]
+	4.69 -> 4.719
+	4.719 [label="Latitud: 4.719
+Longitud: -74.043"]
+	4.719 -> 6.17
+	6.17 [label="Latitud: 6.17
+Longitud: -75.579"]
+	6.17 -> 3.363
+	3.363 [label="Latitud: 3.363
+Longitud: -76.53"]
+	3.363 -> 11.008
+	11.008 [label="Latitud: 11.008
+Longitud: -74.81"]
+	3.363 -> 6.212
+	6.212 [label="Latitud: 6.212
+Longitud: -75.554"]
+	6.17 -> 7.113
+	7.113 [label="Latitud: 7.113
+Longitud: -73.135"]
+	7.113 -> 6.23
+	6.23 [label="Latitud: 6.23
+Longitud: -75.606"]
+	7.113 -> 6.259
+	6.259 [label="Latitud: 6.259
+Longitud: -75.554"]
+	4.719 -> 10.418
+	10.418 [label="Latitud: 10.418
+Longitud: -75.534"]
+	10.418 -> 6.18
+	6.18 [label="Latitud: 6.18
+Longitud: -75.576"]
+	6.18 -> 6.182
+	6.182 [label="Latitud: 6.182
+Longitud: -75.568"]
+	6.18 -> 6.15
+	6.15 [label="Latitud: 6.15
+Longitud: -75.618"]
+	10.418 -> 6.179
+	6.179 [label="Latitud: 6.179
+Longitud: -75.572"]
+	6.179 -> 6.232
+	6.232 [label="Latitud: 6.232
+Longitud: -75.605"]
+	4.677 -> 4.697
+	4.697 [label="Latitud: 4.697
+Longitud: -74.047"]
+	4.697 -> 4.753
+	4.753 [label="Latitud: 4.753
+Longitud: -74.028"]
+	4.753 -> 6.212
+	6.212 [label="Latitud: 6.212
+Longitud: -75.558"]
+	6.212 -> 4.726
+	4.726 [label="Latitud: 4.726
+Longitud: -74.063"]
+	4.753 -> 4.698
+	4.698 [label="Latitud: 4.698
+Longitud: -74.035"]
+	4.698 -> 6.192
+	6.192 [label="Latitud: 6.192
+Longitud: -75.579"]
+	6.192 -> 4.694
+	4.694 [label="Latitud: 4.694
+Longitud: -74.036"]
+	4.698 -> 4.663
+	4.663 [label="Latitud: 4.663
+Longitud: -74.048"]
+	4.697 -> 4.707
+	4.707 [label="Latitud: 4.707
+Longitud: -74.041"]
+	4.707 -> 4.72
+	4.72 [label="Latitud: 4.72
+Longitud: -74.077"]
+	4.72 -> 4.702
+	4.702 [label="Latitud: 4.702
+Longitud: -74.039"]
+	4.702 -> 4.691
+	4.691 [label="Latitud: 4.691
+Longitud: -74.042"]
+	4.72 -> 11.238
+	11.238 [label="Latitud: 11.238
+Longitud: -74.217"]
+	4.707 -> 4.611
+	4.611 [label="Latitud: 4.611
+Longitud: -74.073"]
+	4.611 -> 4.665
+	4.665 [label="Latitud: 4.665
+Longitud: -74.046"]
+	4.611 -> 4.68
+	4.68 [label="Latitud: 4.68
+Longitud: -74.047"]
+}
